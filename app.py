@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 21 17:25:47 2021
-
-@author: Jinal Kotadia
-"""
-
 # BMI App
 import streamlit as st
 import streamlit.components.v1 as components
